@@ -40,11 +40,11 @@ export default class WeatherScreen extends React.Component {
 const styles = StyleSheet.create({
 
     zipItem: {
-        fontSize: 25,
+      
         flexDirection:'column',
         justifyContent:'center',
         alignItems:'center',
-        color: '#003300'
+      
     },
     zipPlace: {
         fontSize: 20,
